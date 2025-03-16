@@ -173,7 +173,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-screenshots/
-streamlit_app1.png
-streamlit_app2.png
