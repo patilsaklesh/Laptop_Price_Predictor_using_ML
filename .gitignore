@@ -175,3 +175,5 @@ cython_debug/
 .pypirc
 
 screenshots/
+streamlit_app1.png
+streamlit_app2.png

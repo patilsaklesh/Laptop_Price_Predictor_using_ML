@@ -107,6 +107,6 @@ This project is licensed under the MIT License.
 
 Below is a preview of the Streamlit application:
 
-![App Screenshot](screenshots/streamlit_app1.png)
-![App Screenshot](screenshots/streamlit_app2.png)
+![App Screenshot](streamlit_app1.png)
+![App Screenshot](streamlit_app2.png)
 
